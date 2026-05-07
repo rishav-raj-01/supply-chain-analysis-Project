@@ -1,14 +1,20 @@
 # supply-chain-analysis-Project
-This project focuses on analyzing supply chain operations to identify inefficiencies, optimize inventory management, and improve delivery performance. By leveraging data-driven insights, the analysis aims to streamline logistics and enhance overall supply chain resilience.
+This project performs a comprehensive Data Analysis (EDA) on supply chain operations. By analyzing datasets covering product categories, costs, and shipping carriers, the project identifies key trends in revenue generation and logistical efficiency.
 
-Tech Stack
-Language: Python
+Key Analysis Areas
+* Revenue Analytics: Breakdown of revenue by product type (Skincare, Haircare, Cosmetics).
 
-Libraries: 
-* Pandas for data manipulation and cleaning.
+* Logistics & Shipping: Analysis of shipping costs across different carriers and transportation modes (Air, Road, Rail, Sea).
 
-* Matplotlib & Seaborn for advanced data visualization.
+* Inventory Management: Insights into stock levels, order quantities, and lead times.
 
-* NumPy for numerical computations.
+* Risk Assessment: Evaluating defect rates and supplier performance to ensure quality control.
+
+Tech Stack :
+* Language: Python.
+
+* Data Manipulation: Pandas, NumPy.
+
+* Visualization: Seaborn, Matplotlib, Plotly (for interactive charts).
 
 Environment: Jupyter Notebook.
