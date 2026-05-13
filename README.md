@@ -43,6 +43,4 @@ Late delivery tanks reviews fast. On-time orders average 4.1–4.3 stars. Once y
 About 35–40% of total delivery time comes from seller processing, not the carrier. That's the part the platform can actually control, which makes it the highest-leverage area to fix.
 Small orders under R$50 are paying 30–40% of their order value in freight. That's a checkout conversion problem waiting to happen.
 
-
-### **Author**
-Rishav Raj
+### Rishav Raj
